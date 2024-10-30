@@ -1,5 +1,5 @@
 # SIEM-Configuration-and-Management
-Vizualizing and setting up alerts through Elastic Stack SIEM
+Generating and analyzing security events using Elastic SIEM
 <h1>Project Overview</h1>
 In this project, I will be demonstrating how to set up and configure Elastic Stack SIEM in a Home Lab Environment utilizing VMWARE and Kali Linux; Aquired hands-on experience generating and analyzing security events using Nmap on Kali Linux; Creating and vizualizing real-time alerts. 
 
