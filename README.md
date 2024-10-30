@@ -39,7 +39,7 @@ I was toying around with the features provided by the Elastic SIEM Application a
 
 
 
-I was also able to utilize the alert feature, which is a crucial tool for detecting security incident and being able to respond to them in a timely manner. With this, I set up the SIEM to sent an alert to my email if "Nmap" was detected in the logs. 
+I was also able to utilize the alert feature, which is a crucial tool for detecting security incident and being able to respond to them in a timely manner. With this, I set up the SIEM to send an alert to my email if "Nmap" was detected in the event logs. 
 
 
 ![Alert Security](https://github.com/user-attachments/assets/0039279d-1c6c-406f-af4c-e88172c71beb)
